@@ -48,9 +48,9 @@
 
 - **Practiced Skills**:
     
-    <a href='' target="_blank"><img alt='' src='https://img.shields.io/badge/Driver:_100-100000?style=for-the-badge&logo=&logoColor=white&labelColor=000000&color=000000'/></a>
-    <a href='' target="_blank"><img alt='' src='https://img.shields.io/badge/Programming:_100-100000?style=for-the-badge&logo=&logoColor=white&labelColor=000000&color=000000'/></a>
-    <a href='' target="_blank"><img alt='' src='https://img.shields.io/badge/Combined:_200-100000?style=for-the-badge&logo=&logoColor=white&labelColor=000000&color=000000'/></a>
+    <a href='' target="_blank"><img alt='' src='https://img.shields.io/badge/Driver:_144-100000?style=for-the-badge&logo=&logoColor=white&labelColor=000000&color=000000'/></a>
+    <a href='' target="_blank"><img alt='' src='https://img.shields.io/badge/Programming:_79-100000?style=for-the-badge&logo=&logoColor=white&labelColor=000000&color=000000'/></a>
+    <a href='' target="_blank"><img alt='' src='https://img.shields.io/badge/Combined:_223-100000?style=for-the-badge&logo=&logoColor=white&labelColor=000000&color=000000'/></a>
 </p>
 
 <br>
