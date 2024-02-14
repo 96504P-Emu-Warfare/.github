@@ -30,7 +30,7 @@
     
 - **Autonomous**:
 
-   <a href='' target="_blank"><img alt='Five Ball' src='https://img.shields.io/badge/Fiveball-100000?style=for-the-badge&logo=Five Ball&logoColor=white&labelColor=000000&color=000000'/></a>
+   <a href='' target="_blank"><img alt='Six Ball' src='https://img.shields.io/badge/Fiveball-100000?style=for-the-badge&logo=Six Ball&logoColor=white&labelColor=000000&color=000000'/></a>
    <a href='' target="_blank"><img alt='' src='https://img.shields.io/badge/nearside_awp-100000?style=for-the-badge&logo=&logoColor=white&labelColor=000000&color=1723D0'/></a>
 
 <br>
@@ -47,9 +47,9 @@
 
 - **Practiced Skills**:
     
-    <a href='' target="_blank"><img alt='' src='https://img.shields.io/badge/Driver:_144-100000?style=for-the-badge&logo=&logoColor=white&labelColor=000000&color=000000'/></a>
-    <a href='' target="_blank"><img alt='' src='https://img.shields.io/badge/Programming:_79-100000?style=for-the-badge&logo=&logoColor=white&labelColor=000000&color=000000'/></a>
-    <a href='' target="_blank"><img alt='' src='https://img.shields.io/badge/Combined:_223-100000?style=for-the-badge&logo=&logoColor=white&labelColor=000000&color=000000'/></a>
+    <a href='' target="_blank"><img alt='' src='https://img.shields.io/badge/Driver:_160-100000?style=for-the-badge&logo=&logoColor=white&labelColor=000000&color=000000'/></a>
+    <a href='' target="_blank"><img alt='' src='https://img.shields.io/badge/Programming:_135-100000?style=for-the-badge&logo=&logoColor=white&labelColor=000000&color=000000'/></a>
+    <a href='' target="_blank"><img alt='' src='https://img.shields.io/badge/Combined:_295-100000?style=for-the-badge&logo=&logoColor=white&labelColor=000000&color=000000'/></a>
 </p>
 
 <br>
