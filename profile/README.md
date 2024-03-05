@@ -1,7 +1,7 @@
 <h1 align="center"><b> Team 96504P [VEX VRC Robotics] </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=4th+Year+Team;Based+in+Brentwood,TN;Composed+of+Sophmores+and+Juniors"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=4th+Year+Team;Based+in+Brentwood,TN;Over_Under_Worlds-Qualified"></a>
 </p>
 
 
@@ -38,9 +38,9 @@
 - **Robot Stats**:
 
     <a href='' target="_blank"><img alt='' src='https://img.shields.io/badge/6M_Drive-100000?style=for-the-badge&logo=&logoColor=white&labelColor=000000&color=000000'/></a>
-    <a href='' target="_blank"><img alt='' src='https://img.shields.io/badge/1M_Catapuncher-100000?style=for-the-badge&logo=&logoColor=white&labelColor=000000&color=000000'/></a>
-    <a href='' target="_blank"><img alt='' src='https://img.shields.io/badge/1M_Band Intake-100000?style=for-the-badge&logo=&logoColor=white&labelColor=000000&color=000000'/></a>
-    <a href='' target="_blank"><img alt='' src='https://img.shields.io/badge/Pneumatic_wings + Blocker-100000?style=for-the-badge&logo=&logoColor=white&labelColor=000000&color=000000'/></a>
+    <a href='' target="_blank"><img alt='' src='https://img.shields.io/badge/1.5M_Puncher-100000?style=for-the-badge&logo=&logoColor=white&labelColor=000000&color=000000'/></a>
+    <a href='' target="_blank"><img alt='' src='https://img.shields.io/badge/0.5M_Flexwheel Intake-100000?style=for-the-badge&logo=&logoColor=white&labelColor=000000&color=000000'/></a>
+    <a href='' target="_blank"><img alt='' src='https://img.shields.io/badge/Pneumatic_Front/Back Wings-100000?style=for-the-badge&logo=&logoColor=white&labelColor=000000&color=000000'/></a>
 
 
 <br>
@@ -49,7 +49,7 @@
     
     <a href='' target="_blank"><img alt='' src='https://img.shields.io/badge/Driver:_189-100000?style=for-the-badge&logo=&logoColor=white&labelColor=000000&color=000000'/></a>
     <a href='' target="_blank"><img alt='' src='https://img.shields.io/badge/Programming:_155-100000?style=for-the-badge&logo=&logoColor=white&labelColor=000000&color=000000'/></a>
-    <a href='' target="_blank"><img alt='' src='https://img.shields.io/badge/Combined:_295-100000?style=for-the-badge&logo=&logoColor=white&labelColor=000000&color=000000'/></a>
+    <a href='' target="_blank"><img alt='' src='https://img.shields.io/badge/Combined:_344-100000?style=for-the-badge&logo=&logoColor=white&labelColor=000000&color=000000'/></a>
 </p>
 
 <br>
